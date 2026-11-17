@@ -35,13 +35,13 @@
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ruanlinos&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
-    <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=ruanlinos&show_icons=true&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=ruanlinos&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" />
+    <img alt="GitHub stats" height="165" src="https://github-stats-extended.vercel.app/api?username=ruanlinos&amp;show_icons=true&amp;hide_border=true" />
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanlinos&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" />
-    <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanlinos&layout=compact&hide_border=true&langs_count=6" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ruanlinos&amp;layout=compact&amp;hide_border=true&amp;langs_count=6&amp;theme=github_dark" />
+    <img alt="Top languages" height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ruanlinos&amp;layout=compact&amp;hide_border=true&amp;langs_count=6" />
   </picture>
 </p>
 
