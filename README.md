@@ -1,35 +1,48 @@
 <div align="center">
 
-# Ruan Linos Alves
+<pre>
+┌─ ruanlinos ─────────────────────────────────────────────────────────┐
+│                                                                     │
+│  Ruan Linos Alves                                                   │
+│  Senior Software Engineer                                           │
+│                                                                     │
+│  I build web and mobile products. Architecture,                     │
+│  design systems, React, React Native,                               │
+│  TypeScript, and Node.js.                                           │
+│                                                                     │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  stack    react  ·  react native  ·  typescript  ·  node.js         │
+│  focus    architecture  ·  design systems                           │
+│  now      DBC Company  ·  Guarapuava, Brazil                        │
+│                                                                     │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  web      <a href="https://ruanlinos.dev">ruanlinos.dev</a>                                             │
+│  in       <a href="https://www.linkedin.com/in/linosruan">linkedin.com/in/linosruan</a>                                 │
+│  x        <a href="https://x.com/LinosRuan">x.com/LinosRuan</a>                                           │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+</pre>
 
-**Senior Software Engineer**
+<code>~/stack</code>
 
-React · React Native · TypeScript · Node.js
-
-[ruanlinos.dev](https://ruanlinos.dev) · [LinkedIn](https://www.linkedin.com/in/linosruan) · [X](https://x.com/LinosRuan)
-
-</div>
-
-Engenheiro de software sênior. Construo produtos web e mobile, com foco em arquitetura, design systems e na stack React, React Native, TypeScript e Node.js.
-
-Hoje na **DBC Company**, em Guarapuava, Paraná.
-
-## Stack
-
-<p align="center">
-  <img alt="TypeScript, JavaScript, React, Node.js, GraphQL, .NET, C#, AWS, Go, Swift e Git" src="https://skillicons.dev/icons?i=ts,js,react,nodejs,graphql,dotnet,cs,aws,go,swift,git&perline=11" />
+<p>
+  <img alt="TypeScript, JavaScript, React, Node.js, GraphQL, .NET, C#, AWS, Go, Swift, Git" src="https://skillicons.dev/icons?i=ts,js,react,nodejs,graphql,dotnet,cs,aws,go,swift,git&perline=11" />
 </p>
 
-## GitHub
+<code>~/github</code>
 
-<p align="center">
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ruanlinos&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
-    <img alt="Estatísticas do GitHub" height="165" src="https://github-readme-stats.vercel.app/api?username=ruanlinos&show_icons=true&hide_border=true" />
+    <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=ruanlinos&show_icons=true&hide_border=true" />
   </picture>
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanlinos&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=ffffff&text_color=c9d1d9" />
-    <img alt="Linguagens mais usadas" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanlinos&layout=compact&hide_border=true&langs_count=6" />
+    <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanlinos&layout=compact&hide_border=true&langs_count=6" />
   </picture>
 </p>
+
+</div>
